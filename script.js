@@ -18,8 +18,7 @@ console.log(`hades ble slicet bort: ${gamesArray}`);
 
 
 //Oppgave 1.1
-console.log("Dette er index 5: " + gamesArray[5]);
-//Hva menes med template literals?
+console.log(`Dette er index 5: ${gamesArray[5]}`);
 
 
 //Oppgave 2
